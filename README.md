@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahanvimukthi" alt="shahanvimukthi" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/shahan vimukthi" target="blank"><img src="https://img.shields.io/twitter/follow/shahan vimukthi?logo=twitter&style=for-the-badge" alt="shahan vimukthi" /></a> </p>
+
 - 🌱 I’m currently learning **HTML,C++,C,PHP,CSS**
+
+- 👯 I’m looking to collaborate on [FAS supportive portal](https://github.com/PraveenTheekshana2003/FAS-SUPPORTIVE-PROTAL.git)
 
 - 💬 Ask me about **Anything**
 
