@@ -46,12 +46,11 @@ const shahan = {
 ## <img src="https://img.icons8.com/?size=512&id=104261&format=png" width="24" /> GitHub telemetry
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shahanvimukthi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=E6EDF3&ring_color=00F5D4" alt="Shahan's GitHub stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=shahanvimukthi&hide_border=true&background=0D1117&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="Shahan's contribution streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahanvimukthi&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=E6EDF3" alt="Most used languages" />
+  <img src="https://raw.githubusercontent.com/shahanvimukthi/shahanvimukthi/output/github-metrics.svg" alt="GitHub statistics and most used languages" />
 </div>
 
 ## <img src="https://img.icons8.com/?size=512&id=100329&format=png" width="24" /> Contribution trail
