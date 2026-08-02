@@ -1,35 +1,69 @@
-<h1 align="center">Hi 👋, I'm shahan vimukthi</h1>
-<h3 align="center">A passionate a developer from Sri Lanka</h3>
+<!-- Neon Cyber Profile README for shahanvimukthi -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahanvimukthi&label=Profile%20views&color=0e75b6&style=flat" alt="shahanvimukthi" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahanvimukthi" alt="shahanvimukthi" /></a> </p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Shahan+Vimukthi+%F0%9F%91%8B;Software+Engineering+Student;Web+Developer+%7C+Building+for+the+web" alt="Typing SVG" />
 
-<p align="left"> <a href="https://twitter.com/shahan vimukthi" target="blank"><img src="https://img.shields.io/twitter/follow/shahan vimukthi?logo=twitter&style=for-the-badge" alt="shahan vimukthi" /></a> </p>
+  <p>
+    <a href="https://shahanvimukthi.github.io/Personal_portfolio/"><img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=06121F" alt="Portfolio" /></a>
+    <a href="https://github.com/shahanvimukthi"><img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=00F5D4" alt="GitHub" /></a>
+    <img src="https://komarev.com/ghpvc/?username=shahanvimukthi&label=PROFILE+VIEWS&color=00F5D4&style=for-the-badge" alt="Profile views" />
+  </p>
+</div>
 
-- 🌱 I’m currently learning **HTML,C++,C,PHP,CSS**
+<br />
 
-- 👯 I’m looking to collaborate on [FAS supportive portal](https://github.com/PraveenTheekshana2003/FAS-SUPPORTIVE-PROTAL.git)
+## <img src="https://img.icons8.com/?size=512&id=111471&format=png" width="24" /> About me
 
-- 💬 Ask me about **Anything**
+```ts
+const shahan = {
+  role: "Software Engineering Student & Web Developer",
+  location: "Sri Lanka 🇱🇰",
+  focus: ["Web development", "Clean UI", "Continuous learning"],
+  currentlyLearning: "Building practical, user-focused software",
+  funFact: "I believe great code should feel as good as it works."
+};
+```
 
-- 📫 How to reach me **gajanayakashahanvimukthi@gmail.com**
+<div align="center">
+  <a href="https://shahanvimukthi.github.io/Personal_portfolio/">
+    <img src="https://img.shields.io/badge/Explore_my_portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=06121F" alt="Explore my portfolio" />
+  </a>
+</div>
 
-- ⚡ Fun fact **I think i am a funny man**
+## <img src="https://img.icons8.com/?size=512&id=114079&format=png" width="24" /> Tech arsenal
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shahan vimukthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahan vimukthi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahan vimukthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahan vimukthi" height="30" width="40" /></a>
-<a href="https://fb.com/shahan vimukthi gajanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahan vimukthi gajanayaka" height="30" width="40" /></a>
-<a href="https://instagram.com/vimukthi gajanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vimukthi gajanayaka" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,c,cpp,mysql,matlab,vscode,github&theme=dark&perline=11" alt="Languages and tools" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white" alt="RStudio" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-161B22?style=for-the-badge&logo=githubcopilot&logoColor=00F5D4" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Antigravity-101820?style=for-the-badge&logoColor=00F5D4" alt="Antigravity" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+## <img src="https://img.icons8.com/?size=512&id=104261&format=png" width="24" /> GitHub telemetry
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahanvimukthi&show_icons=true&locale=en&layout=compact" alt="shahanvimukthi" /></p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shahanvimukthi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=E6EDF3&ring_color=00F5D4" alt="Shahan's GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=shahanvimukthi&hide_border=true&background=0D1117&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="Shahan's contribution streak" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahanvimukthi&show_icons=true&locale=en" alt="shahanvimukthi" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahanvimukthi&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=E6EDF3" alt="Most used languages" />
+</div>
 
-<img src="https://github.com/Shahanvimukthi/Shahanvimukthi/blob/main/rear-view-programmer-working-all-night-long.jpg?raw=true" width="500" height="325" >
+## <img src="https://img.icons8.com/?size=512&id=100329&format=png" width="24" /> Contribution trail
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shahanvimukthi/shahanvimukthi/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+</div>
+
+<br />
+
+<div align="center">
+  <i>"Stay curious. Keep building. Ship something meaningful."</i>
+  <br /><br />
+  <a href="mailto:gajanayakashahanvimukthi@gmail.com"><img src="https://img.shields.io/badge/Let's_connect-00F5D4?style=for-the-badge&logo=gmail&logoColor=06121F" alt="Email Shahan" /></a>
+</div>
